@@ -6,6 +6,6 @@
         Height="350"
         Width="525">
     <Grid>
-        <TextBlock>Word</TextBlock>
+        <TextBlock Text="Something or other!"></TextBlock>
     </Grid>
 </Window>
